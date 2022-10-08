@@ -1,0 +1,6 @@
+{
+    "pack": {
+        "pack_format": 10,
+        "description": "Spawn-based campfire that can toggle a thunderstorm"
+    }
+}
